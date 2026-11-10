@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Abdallah Houeidi — Software Developer</title>
+  <desc id="desc">Dark navy and blue header with Abdallah Houeidi's name, software developer title, and abstract code motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090f1e"/><stop offset="0.56" stop-color="#142444"/><stop offset="1" stop-color="#123e78"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#3982ee" stop-opacity=".55"/><stop offset="1" stop-color="#3982ee" stop-opacity="0"/></radialGradient>
+    <linearGradient id="slash" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7dd3fc"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a7c4f5" stroke-opacity=".07" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="1015" cy="138" r="255" fill="url(#glow)"/>
+  <path d="M0 295 C270 220 420 340 678 265 S1082 230 1200 265" fill="none" stroke="#60a5fa" stroke-opacity=".15" stroke-width="2"/>
+  <rect x="62" y="48" width="6" height="202" rx="3" fill="#38bdf8"/>
+  <text x="92" y="82" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5" font-weight="700">HELLO, I'M</text>
+  <text x="88" y="152" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" letter-spacing="1" font-weight="800">ABDALLAH</text>
+  <text x="88" y="216" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" letter-spacing="1" font-weight="800">HOUEIDI</text>
+  <text x="92" y="260" fill="#c8dcf8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">SOFTWARE DEVELOPER  /  FOUNDER OF ARZWARE</text>
+  <g transform="translate(875 56)">
+    <rect x="0" y="0" width="248" height="203" rx="16" fill="#06152d" fill-opacity=".64" stroke="#8fc4ff" stroke-opacity=".26"/>
+    <circle cx="21" cy="23" r="5" fill="#fb7185"/><circle cx="39" cy="23" r="5" fill="#fbbf24"/><circle cx="57" cy="23" r="5" fill="#34d399"/>
+    <path d="M0 42H248" stroke="#a9cbfd" stroke-opacity=".24"/>
+    <text x="23" y="86" font-size="20" font-family="Consolas, Monaco, monospace" fill="#8ec5ff">const</text>
+    <text x="94" y="86" font-size="20" font-family="Consolas, Monaco, monospace" fill="#ffffff">dev = {</text>
+    <text x="37" y="116" font-size="18" font-family="Consolas, Monaco, monospace" fill="#94f3d1">build:</text>
+    <text x="113" y="116" font-size="18" font-family="Consolas, Monaco, monospace" fill="#ffffff">'useful',</text>
+    <text x="37" y="146" font-size="18" font-family="Consolas, Monaco, monospace" fill="#94f3d1">learn:</text>
+    <text x="113" y="146" font-size="18" font-family="Consolas, Monaco, monospace" fill="#ffffff">true</text>
+    <text x="23" y="177" font-size="20" font-family="Consolas, Monaco, monospace" fill="#ffffff">};</text>
+  </g>
+  <text x="1115" y="290" text-anchor="end" fill="#93c5fd" font-size="13" letter-spacing="3" font-family="Arial, Helvetica, sans-serif">LEBANON · 2026</text>
+</svg>
